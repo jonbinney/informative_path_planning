@@ -1,0 +1,19 @@
+<package>
+  <description brief="ppas">
+
+    Path Planning and Adaptive Sampling (PPAS) Library.
+
+  </description>
+  <author>Jon Binney</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <rosdep name="pydap"/>
+  <rosdep name="numpy"/>
+  <rosdep name="scipy"/>  
+  <rosdep name="matplotlib"/>
+
+  <url>http://ros.org/wiki/ppas</url>
+
+</package>
+
+

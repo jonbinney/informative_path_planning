@@ -1,0 +1,16 @@
+<package>
+  <description brief="pplan">
+
+     pplan
+
+  </description>
+  <author>Jon Binney</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pplan</url>
+
+  <depend package="ppas" />
+
+</package>
+
+

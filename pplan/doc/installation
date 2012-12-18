@@ -1,0 +1,6 @@
+# install pydap (for getting ROMS datasets) from http://pydap.org/
+sudo easy_install Paste
+sudo easy_install Pydap
+
+# install matplotlib, numpy, scipy
+sudo apt-get install python-matplotlib python-scipy

@@ -1,0 +1,22 @@
+# for downloading ROMS files
+pydap:
+    ubuntu: |
+        sudo easy_install Paste
+        sudo easy_install Pydap
+
+# timezone calculations for python
+pytz:
+    ubuntu:
+        python-tz
+
+numpy:
+    ubuntu:
+        python-numpy
+
+scipy:
+    ubuntu:
+        python-scipy
+
+matplotlib:
+    ubuntu:
+        python-matplotlib    
