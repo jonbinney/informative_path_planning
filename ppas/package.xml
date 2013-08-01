@@ -1,0 +1,19 @@
+<package>
+  <name>ppas</name>
+  <description>Path Planning and Adaptive Sampling (PPAS) Library.</description>
+  <version>0.0.1</version>
+  <maintainer email="jon.binney@gmail.com">Jon Binney</maintainer>
+  <license>BSD</license>
+
+  <url>http://ros.org/wiki/ppas</url>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <run_depend>pydap</run_depend>
+  <run_depend>numpy</run_depend>
+  <run_depend>scipy</run_depend>
+  <run_depend>matlotlib</run_depend>
+
+</package>
+
+

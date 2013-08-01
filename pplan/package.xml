@@ -1,0 +1,16 @@
+<package>
+  <name>pplan</name>
+  <description>pplan</description>
+  <version>0.0.1</version>
+  <maintainer email="jon.binney@gmail.com">Jon Binney</maintainer>
+  <license>BSD</license>
+
+  <url>http://ros.org/wiki/pplan</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>ppas</run_depend>
+
+</package>
+
+
